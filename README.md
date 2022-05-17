@@ -1,8 +1,6 @@
-# Sound Touch App Clone
+# Animals sound App
 
 My another flutter project: Animals sound app
-
-## What is the Outcome?
 
 ## DISCLAIMER!!!
 
