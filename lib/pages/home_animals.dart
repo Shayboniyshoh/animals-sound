@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'customButton.dart';
+import 'custom_button.dart';
 
 class HomeAnimals extends StatefulWidget {
   const HomeAnimals({

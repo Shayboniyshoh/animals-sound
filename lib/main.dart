@@ -1,9 +1,10 @@
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter/material.dart';
-import 'pages/homeAnimals.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+
+import 'pages/home_animals.dart';
+import 'pages/musical_instruments.dart';
 import 'pages/transports.dart';
-import 'pages/musicalinstruments.dart';
-import 'pages/wildAnimals.dart';
+import 'pages/wild_animals.dart';
 
 void main() {
   runApp(const SoundTouchApp());
